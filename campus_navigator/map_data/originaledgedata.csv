@@ -1,0 +1,10 @@
+first_node,second_node
+"East Classroom Building","East Parking Garage"
+"East Classroom Building",int_1
+int_1,int_3
+CTLM,int_3
+"Marquez Hall",int_3
+int_2,int_3
+int_2,int_4
+int_4,int_5
+"Berthoud Hall",int_5

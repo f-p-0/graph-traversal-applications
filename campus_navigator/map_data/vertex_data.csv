@@ -1,0 +1,154 @@
+x_position,y_position,node_type,name
+140,129,b,"Lot Q"
+220,74,b,"General Research Lab Annex"
+250,98,b,"Labriola Innovation Hub"
+224,158,b,"Earth Mechanics Institute/Drilling Lab"
+239,233,i,int_1
+259,180,b,"West Parking Garage"
+337,190,b,"McNeil Hall"
+281,130,b,"xWorks Innovation Spaces"
+341,118,b,"General Research Lab/Geology Museum"
+265,154,i,int_2
+369,152,i,int_3
+369,81,i,int_4
+327,53,b,"Lot S"
+423,109,b,"Steinhauer Field House"
+423,152,b,"Volk Gymnasium"
+475,81,i,int_5
+508,102,b,"Lot T"
+401,141,b,"Lot W"
+561,97,b,"Heating Plant"
+582,81,i,int_6
+529,154,b,"Coolbaugh Hall"
+369,188,i,int_7
+475,188,i,int_8
+582,188,i,int_9
+257,284,b,"Lot Y"
+281,271,b,"Bradford Hall"
+311,271,b,"Thomas Hall"
+339,271,b,"Morgan Hall"
+281,324,b,"Randall Hall"
+311,299,i,int_10
+369,240,i,int_11
+369,299,i,int_12
+420,225,b,"Arthur Lakes Library"
+505,220,b,"Chauvenet Hall"
+548,225,b,"Stratton Hall"
+476,244,i,int_13
+526,188,i,int_14
+526,244,i,int_15
+582,247,i,int_16
+624,238,b,"Hill Hall"
+656,246,b,"Lot U"
+727,266,b,"Engineering Hall and Annex"
+765,276,b,"1422 Washington Avenue"
+421,297,b,"Guggenheim Hall"
+476,288,i,int_17
+476,305,i,int_18
+582,288,i,int_19
+582,305,i,int_20
+533,268,b,"Stratton Commons"
+606,297,i,int_21
+745,297,i,int_22
+692,297,i,int_23
+342,343,b,"Ben H. Parker Student Center"
+369,403,i,int_24
+422,370,b,"Berthoud Hall"
+533,370,b,"CoorsTek Center for Applied Science and Engineering"
+533,334,b,"Kafadar Commons"
+300,373,b,"Periodic Table Food Court/Campus Store"
+633,349,b,"Green Center"
+670,320,b,"Lot Z"
+720,320,b,"Lot O"
+720,360,b,"Lot N"
+670,372,b,"Lot M"
+726,382,b,"Sigma Nu Fraternity/Grounds"
+476,403,i,int_25
+581,403,i,int_26
+692,403,i,int_27
+800,297,i,int_28
+800,403,i,int_29
+845,377,b,"1511 Washington Avenue"
+210,408,b,"Lot D"
+246,431,i,int_57
+309,427,b,"Student Recreation Center"
+339,467,b,"Lockridge Arena"
+287,478,b,"Outdoor Recreation"
+419,463,b,"Brown Hall"
+532,437,b,"Alderson Hall"
+550,473,b,"Unit Operations Lab"
+534,493,b,"Lot H"
+581,511,i,int_30
+630,490,b,CTLM
+633,465,i,int_31
+639,430,b,"Marquez Hall"
+844,416,b,"Kappa Alpha Theta Sorority"
+821,444,b,"Mines Veteran's Alliance"
+878,430,b,"Lot C"
+259,469,i,int_32
+259,511,i,int_33
+369,511,i,int_34
+476,511,i,int_35
+659,511,i,int_36
+692,511,i,int_37
+800,511,i,int_38
+888,481,b,"1600 Jackson Street"
+910,511,i,int_39
+190,303,b,"Intramural Field (North)"
+206,523,b,"Intramural Field (South)"
+124,310,i,int_40
+92,402,i,int_41
+95,450,i,int_42
+113,497,i,int_43
+120,347,b,"Pi Phi Sorority"
+131,381,b,"Alpha Phi Sorority"
+133,422,b,"Sigma Kappa Sorority"
+101,570,i,int_44
+184,648,i,int_45
+259,618,i,int_46
+124,539,b,"Beta Theta Pi Fraternity"
+134,589,b,"Alpha Tau Omega Fraternity"
+153,616,b,"Kappa Sigma Fraternity"
+121,669,b,"Phi Gamma Delta Fraternity"
+181,679,b,"Sigma Phi Epsilon Fraternity"
+232,656,b,"Sigma Alpha Epsilon Fraternity"
+202,609,b,"Aspen Hall/CASA"
+242,595,b,"W. Lloyd Wright Wellness Center"
+278,552,b,"Student Outreach and Support"
+343,530,b,"Multicultural Engineering Program"
+404,548,b,"Maple Hall"
+451,525,b,"The Writing Center"
+451,548,b,"University Honors & Scholars Houses"
+451,570,b,WISEM
+476,541,i,int_47
+511,555,b,USGS
+558,557,b,EMRF
+622,557,b,"CTLM Lot"
+700,536,b,"East Classroom Building"
+700,581,b,"East Parking Garage"
+761,558,b,"Beck Venture Center"
+875,560,b,"1750 Jackson Street"
+308,588,b,"Elm Residence Hall & Mines Market"
+369,618,i,int_48
+476,618,i,int_49
+581,618,i,int_50
+658,618,i,int_51
+800,618,i,int_52
+910,618,i,int_53
+281,651,b,"Lot B"
+330,664,b,"Weaver Towers"
+399,664,b,"Spruce Hall"
+451,664,b,"Starzer Welcome Center"
+502,682,b,"Visitor Parking"
+476,682,i,int_54
+259,727,i,int_55
+476,727,i,int_56
+516,703,b,"ROTC/Military Science"
+129,771,b,"Lot A"
+91,822,b,"1922 Jones Rd."
+112,822,b,"1920 Jones Rd."
+175,806,b,"Lot F"
+149,863,b,"Lot AA"
+225,767,b,"Music Program"
+235,795,b,"Central Storage & Receiving"
+370,756,b,"Residence Hall VII"

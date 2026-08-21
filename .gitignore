@@ -1,0 +1,13 @@
+#ignore compiled object files and executables
+*.o
+*.exe
+campus_navigator/campus_navigator
+wikipedia_game/wikipedia_game
+
+#ignore large datasets, not sample data files
+wikipedia_game/wikipedia_data/*.csv
+!wikipedia_game/wikipedia_data/sample_*.csv
+
+#ignore OS junk files
+.DS_Store
+Thumbs.db

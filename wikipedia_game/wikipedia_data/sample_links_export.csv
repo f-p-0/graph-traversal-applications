@@ -1,0 +1,101 @@
+id,source_title,target_title,language,position,depth,created_at,source_url,target_url
+1,The Loner (TV series),Point of No Return (TV series),en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_Loner_(TV_series),https://en.wikipedia.org/wiki/Point_of_No_Return_(TV_series)
+2,The Loner (TV series),The World Is Not Enough,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_Loner_(TV_series),https://en.wikipedia.org/wiki/The_World_Is_Not_Enough
+3,The Loner (TV series),Cinema of Serbia,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_Loner_(TV_series),https://en.wikipedia.org/wiki/Cinema_of_Serbia
+4,The Loner (TV series),The Life and Adventures of Nicholas Nickleby (1947 film),en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_Loner_(TV_series),https://en.wikipedia.org/wiki/The_Life_and_Adventures_of_Nicholas_Nickleby_(1947_film)
+5,Point of No Return (TV series),The Loner (TV series),en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Point_of_No_Return_(TV_series),https://en.wikipedia.org/wiki/The_Loner_(TV_series)
+6,Point of No Return (TV series),Cinema of Serbia,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Point_of_No_Return_(TV_series),https://en.wikipedia.org/wiki/Cinema_of_Serbia
+7,The World Is Not Enough,Cinema of Serbia,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_World_Is_Not_Enough,https://en.wikipedia.org/wiki/Cinema_of_Serbia
+8,The World Is Not Enough,Underwater exploration,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_World_Is_Not_Enough,https://en.wikipedia.org/wiki/Underwater_exploration
+9,The World Is Not Enough,Spaceflight,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_World_Is_Not_Enough,https://en.wikipedia.org/wiki/Spaceflight
+10,Cinema of Serbia,The Loner (TV series),en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Cinema_of_Serbia,https://en.wikipedia.org/wiki/The_Loner_(TV_series)
+11,Cinema of Serbia,The Life and Adventures of Nicholas Nickleby (1947 film),en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Cinema_of_Serbia,https://en.wikipedia.org/wiki/The_Life_and_Adventures_of_Nicholas_Nickleby_(1947_film)
+12,The Life and Adventures of Nicholas Nickleby (1947 film),Cinema of Serbia,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/The_Life_and_Adventures_of_Nicholas_Nickleby_(1947_film),https://en.wikipedia.org/wiki/Cinema_of_Serbia
+13,Underwater exploration,The World Is Not Enough,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Underwater_exploration,https://en.wikipedia.org/wiki/The_World_Is_Not_Enough
+14,Underwater exploration,Mid-ocean ridges,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Underwater_exploration,https://en.wikipedia.org/wiki/Mid-ocean_ridges
+15,Underwater exploration,Deep-focus earthquake,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Underwater_exploration,https://en.wikipedia.org/wiki/Deep-focus_earthquake
+16,Underwater exploration,Theory of tides,en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Underwater_exploration,https://en.wikipedia.org/wiki/Theory_of_tides
+17,Mid-ocean ridges,Underwater exploration,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Mid-ocean_ridges,https://en.wikipedia.org/wiki/Underwater_exploration
+18,Mid-ocean ridges,Deep-focus earthquake,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Mid-ocean_ridges,https://en.wikipedia.org/wiki/Deep-focus_earthquake
+19,Mid-ocean ridges,Volcanoes of Kamchatka,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Mid-ocean_ridges,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka
+20,Mid-ocean ridges,Shield volcano,en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Mid-ocean_ridges,https://en.wikipedia.org/wiki/Shield_volcano
+21,Mid-ocean ridges,Theory of tides,en,4,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Mid-ocean_ridges,https://en.wikipedia.org/wiki/Theory_of_tides
+22,Deep-focus earthquake,Mid-ocean ridges,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Deep-focus_earthquake,https://en.wikipedia.org/wiki/Mid-ocean_ridges
+23,Deep-focus earthquake,632 Armenia earthquake,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Deep-focus_earthquake,https://en.wikipedia.org/wiki/632_Armenia_earthquake
+24,Deep-focus earthquake,Volcanoes of Kamchatka,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Deep-focus_earthquake,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka
+25,632 Armenia earthquake,Deep-focus earthquake,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/632_Armenia_earthquake,https://en.wikipedia.org/wiki/Deep-focus_earthquake
+26,632 Armenia earthquake,Sassanid army,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/632_Armenia_earthquake,https://en.wikipedia.org/wiki/Sassanid_army
+27,632 Armenia earthquake,Timeline of Albanian history,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/632_Armenia_earthquake,https://en.wikipedia.org/wiki/Timeline_of_Albanian_history
+28,Volcanoes of Kamchatka,Deep-focus earthquake,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka,https://en.wikipedia.org/wiki/Deep-focus_earthquake
+29,Volcanoes of Kamchatka,Shield volcano,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka,https://en.wikipedia.org/wiki/Shield_volcano
+30,Volcanoes of Kamchatka,Samara,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka,https://en.wikipedia.org/wiki/Samara
+31,Shield volcano,Volcanoes of Kamchatka,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Shield_volcano,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka
+32,Shield volcano,Mid-ocean ridges,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Shield_volcano,https://en.wikipedia.org/wiki/Mid-ocean_ridges
+33,Theory of tides,Mid-ocean ridges,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Theory_of_tides,https://en.wikipedia.org/wiki/Mid-ocean_ridges
+34,Theory of tides,Climate of Jersey,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Theory_of_tides,https://en.wikipedia.org/wiki/Climate_of_Jersey
+35,Theory of tides,Spaceflight,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Theory_of_tides,https://en.wikipedia.org/wiki/Spaceflight
+36,Theory of tides,Ecliptic north pole,en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Theory_of_tides,https://en.wikipedia.org/wiki/Ecliptic_north_pole
+37,Spaceflight,Extraterrestrial real estate,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/Extraterrestrial_real_estate
+38,Spaceflight,Potentially hazardous asteroids,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids
+39,Spaceflight,List of Solar System extremes,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes
+40,Spaceflight,Transatmospheric orbit,en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/Transatmospheric_orbit
+41,Spaceflight,K2-288Bb,en,4,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/K2-288Bb
+42,Spaceflight,AMC-9,en,5,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/AMC-9
+43,Spaceflight,Manastash Ridge Observatory,en,6,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Spaceflight,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory
+44,Extraterrestrial real estate,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Extraterrestrial_real_estate,https://en.wikipedia.org/wiki/Spaceflight
+45,Extraterrestrial real estate,List of Solar System extremes,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Extraterrestrial_real_estate,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes
+46,Potentially hazardous asteroids,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids,https://en.wikipedia.org/wiki/Spaceflight
+47,Potentially hazardous asteroids,List of Solar System extremes,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes
+48,Potentially hazardous asteroids,(80806) 2000 CM105,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids,https://en.wikipedia.org/wiki/(80806)_2000_CM105
+49,Potentially hazardous asteroids,2148 Epeios,en,3,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids,https://en.wikipedia.org/wiki/2148_Epeios
+50,List of Solar System extremes,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes,https://en.wikipedia.org/wiki/Spaceflight
+51,List of Solar System extremes,Potentially hazardous asteroids,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids
+52,List of Solar System extremes,Solar symbol,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes,https://en.wikipedia.org/wiki/Solar_symbol
+53,Transatmospheric orbit,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Transatmospheric_orbit,https://en.wikipedia.org/wiki/Spaceflight
+54,AMC-9,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/AMC-9,https://en.wikipedia.org/wiki/Spaceflight
+55,Manastash Ridge Observatory,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory,https://en.wikipedia.org/wiki/Spaceflight
+56,Manastash Ridge Observatory,Henry Draper Catalog,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory,https://en.wikipedia.org/wiki/Henry_Draper_Catalog
+57,Manastash Ridge Observatory,Stephan's Quintet,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory,https://en.wikipedia.org/wiki/Stephan's_Quintet
+58,K2-288Bb,Spaceflight,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/K2-288Bb,https://en.wikipedia.org/wiki/Spaceflight
+59,(80806) 2000 CM105,Potentially hazardous asteroids,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/(80806)_2000_CM105,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids
+60,2148 Epeios,Potentially hazardous asteroids,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/2148_Epeios,https://en.wikipedia.org/wiki/Potentially_hazardous_asteroids
+61,Henry Draper Catalog,Manastash Ridge Observatory,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Henry_Draper_Catalog,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory
+62,Stephan's Quintet,Manastash Ridge Observatory,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Stephan's_Quintet,https://en.wikipedia.org/wiki/Manastash_Ridge_Observatory
+63,Ecliptic north pole,Theory of tides,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Ecliptic_north_pole,https://en.wikipedia.org/wiki/Theory_of_tides
+64,Solar symbol,List of Solar System extremes,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Solar_symbol,https://en.wikipedia.org/wiki/List_of_Solar_System_extremes
+65,Solar symbol,Labarum,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Solar_symbol,https://en.wikipedia.org/wiki/Labarum
+66,Labarum,Solar symbol,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Labarum,https://en.wikipedia.org/wiki/Solar_symbol
+67,Labarum,Ancient Mesopotamian religion,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Labarum,https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion
+68,Labarum,Manichaean art,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Labarum,https://en.wikipedia.org/wiki/Manichaean_art
+69,Ancient Mesopotamian religion,Labarum,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion,https://en.wikipedia.org/wiki/Labarum
+70,Ancient Mesopotamian religion,Baruch ben Neriah,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion,https://en.wikipedia.org/wiki/Baruch_ben_Neriah
+71,Manichaean art,Labarum,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Manichaean_art,https://en.wikipedia.org/wiki/Labarum
+72,Manichaean art,Ancient Mesopotamian religion,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Manichaean_art,https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion
+73,Baruch ben Neriah,Ancient Mesopotamian religion,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Baruch_ben_Neriah,https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion
+74,Climate of Jersey,Theory of tides,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Climate_of_Jersey,https://en.wikipedia.org/wiki/Theory_of_tides
+75,Climate of Jersey,Environment of Spain,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Climate_of_Jersey,https://en.wikipedia.org/wiki/Environment_of_Spain
+76,Environment of Spain,Climate of Jersey,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Environment_of_Spain,https://en.wikipedia.org/wiki/Climate_of_Jersey
+77,Environment of Spain,Burjassot,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Environment_of_Spain,https://en.wikipedia.org/wiki/Burjassot
+78,Environment of Spain,Kingdom of Majorca,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Environment_of_Spain,https://en.wikipedia.org/wiki/Kingdom_of_Majorca
+79,Burjassot,Environment of Spain,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Burjassot,https://en.wikipedia.org/wiki/Environment_of_Spain
+80,Kingdom of Majorca,Environment of Spain,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Kingdom_of_Majorca,https://en.wikipedia.org/wiki/Environment_of_Spain
+81,Kingdom of Majorca,East Francia,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Kingdom_of_Majorca,https://en.wikipedia.org/wiki/East_Francia
+82,East Francia,Kingdom of Majorca,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/East_Francia,https://en.wikipedia.org/wiki/Kingdom_of_Majorca
+83,East Francia,Timeline of Slovenian history,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/East_Francia,https://en.wikipedia.org/wiki/Timeline_of_Slovenian_history
+84,East Francia,Bolesław II the Generous,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/East_Francia,https://en.wikipedia.org/wiki/Bolesław_II_the_Generous
+85,Timeline of Slovenian history,East Francia,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Timeline_of_Slovenian_history,https://en.wikipedia.org/wiki/East_Francia
+86,Bolesław II the Generous,East Francia,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Bolesław_II_the_Generous,https://en.wikipedia.org/wiki/East_Francia
+87,Sassanid army,632 Armenia earthquake,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Sassanid_army,https://en.wikipedia.org/wiki/632_Armenia_earthquake
+88,Sassanid army,Army of the Tsardom of Russia,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Sassanid_army,https://en.wikipedia.org/wiki/Army_of_the_Tsardom_of_Russia
+89,Sassanid army,Oghuz Turk,en,2,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Sassanid_army,https://en.wikipedia.org/wiki/Oghuz_Turk
+90,Army of the Tsardom of Russia,Sassanid army,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Army_of_the_Tsardom_of_Russia,https://en.wikipedia.org/wiki/Sassanid_army
+91,Army of the Tsardom of Russia,Samara,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Army_of_the_Tsardom_of_Russia,https://en.wikipedia.org/wiki/Samara
+92,Oghuz Turk,Sassanid army,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Oghuz_Turk,https://en.wikipedia.org/wiki/Sassanid_army
+93,Samara,Army of the Tsardom of Russia,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Samara,https://en.wikipedia.org/wiki/Army_of_the_Tsardom_of_Russia
+94,Samara,Volcanoes of Kamchatka,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Samara,https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka
+95,Timeline of Albanian history,632 Armenia earthquake,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Timeline_of_Albanian_history,https://en.wikipedia.org/wiki/632_Armenia_earthquake
+96,Timeline of Albanian history,Thessaly,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Timeline_of_Albanian_history,https://en.wikipedia.org/wiki/Thessaly
+97,Thessaly,Timeline of Albanian history,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Thessaly,https://en.wikipedia.org/wiki/Timeline_of_Albanian_history
+98,Babington Plot,Kingdom of Majorca,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Babington_Plot,https://en.wikipedia.org/wiki/Kingdom_of_Majorca
+99,Babington Plot,Broxburn,en,1,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Babington_Plot,https://en.wikipedia.org/wiki/Broxburn
+100,Broxburn,Babington Plot,en,0,1,2025-11-29 21:00:00,https://en.wikipedia.org/wiki/Broxburn,https://en.wikipedia.org/wiki/Babington_Plot

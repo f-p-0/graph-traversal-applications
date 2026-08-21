@@ -1,0 +1,210 @@
+first_node,second_node
+"Lot Q",int_1
+"Lot S",int_4
+"xWorks Innovation Spaces",int_2
+"Labriola Innovation Hub",int_2
+"General Research Lab Annex",int_2
+int_2,int_3
+int_3,int_4
+"Steinhauer Field House",int_4
+"Steinhauer Field House",int_5
+"Lot T",int_5
+int_5,int_6
+"Heating Plant",int_6
+"Earth Mechanics Institute/Drilling Lab",int_2
+"West Parking Garage",int_1
+"McNeil Hall","West Parking Garage"
+"West Parking Garage",int_2
+"McNeil Hall",int_3
+"McNeil Hall",int_11
+int_3,int_7
+"Lot W",int_3
+int_7,int_11
+"Volk Gymnasium",int_7
+"Volk Gymnasium",int_8
+int_5,int_8
+"Coolbaugh Hall",int_14
+int_8,int_14
+int_9,int_14
+int_6,int_9
+int_7,int_8
+int_4,int_5
+int_1,int_11
+"Chauvenet Hall",int_8
+"Chauvenet Hall",int_14
+"General Research Lab/Geology Museum",int_3
+"Arthur Lakes Library",int_11
+"Arthur Lakes Library",int_13
+int_8,int_13
+int_13,int_15
+int_14,int_15
+int_15,int_16
+"Stratton Hall",int_15
+int_9,int_16
+"Bradford Hall",int_10
+"Thomas Hall",int_10
+"Morgan Hall",int_10
+"Randall Hall",int_10
+int_10,int_12
+"Lot Y",int_10
+"Guggenheim Hall",int_12
+"Guggenheim Hall",int_17
+"Guggenheim Hall",int_18
+int_13,int_17
+"Stratton Commons",int_17
+"Stratton Commons",int_19
+int_17,int_18
+int_19,int_20
+int_17,int_19
+int_18,int_20
+int_18,int_25
+"Kafadar Commons",int_18
+"Kafadar Commons",int_20
+int_19,int_21
+int_20,int_21
+"Hill Hall",int_16
+"Hill Hall",int_21
+"Lot U",int_23
+int_21,int_23
+"Engineering Hall and Annex",int_22
+"1422 Washington Avenue",int_22
+int_22,int_23
+int_22,int_28
+"Lot Z",int_23
+"Lot O",int_23
+int_11,int_12
+int_16,int_19
+"Ben H. Parker Student Center",int_12
+"Ben H. Parker Student Center",int_24
+int_12,int_24
+"Periodic Table Food Court/Campus Store",int_24
+"Berthoud Hall",int_24
+"Berthoud Hall",int_25
+int_24,int_25
+"CoorsTek Center for Applied Science and Engineering",int_25
+"CoorsTek Center for Applied Science and Engineering",int_26
+int_25,int_26
+int_20,int_26
+"Green Center",int_26
+"Green Center",int_20
+int_26,int_27
+"Lot M",int_27
+"Lot N",int_27
+"Sigma Nu Fraternity/Grounds",int_27
+int_23,int_27
+int_27,int_29
+int_28,int_29
+"1511 Washington Avenue",int_29
+"Kappa Alpha Theta Sorority",int_29
+"Mines Veteran's Alliance",int_29
+"Lot C",int_29
+"Student Recreation Center",int_57
+"Student Recreation Center",int_24
+int_24,int_57
+int_32,int_57
+"Lockridge Arena",int_34
+int_32,int_33
+"Outdoor Recreation",int_33
+"Lockridge Arena","Student Recreation Center"
+"Lockridge Arena","Outdoor Recreation"
+"Lot D",int_32
+int_33,int_34
+int_24,int_34
+int_34,int_35
+"Brown Hall",int_24
+"Brown Hall",int_34
+int_25,int_35
+"Alderson Hall",int_25
+"Alderson Hall",int_26
+"Unit Operations Lab",int_30
+"Lot H",int_30
+int_26,int_30
+int_26,int_31
+"Marquez Hall",int_31
+CTLM,int_31
+int_31,int_36
+int_27,int_37
+int_36,int_37
+int_37,int_38
+"Beck Venture Center",int_38
+int_29,int_38
+int_38,int_39
+"1600 Jackson Street",int_39
+"Multicultural Engineering Program",int_34
+"Student Outreach and Support",int_33
+"Maple Hall",int_34
+"Maple Hall",int_48
+"Intramural Field (South)","Lot D"
+"Intramural Field (North)","Lot D"
+int_1,int_57
+int_1,int_40
+int_40,int_41
+"Pi Phi Sorority",int_41
+"Alpha Phi Sorority",int_41
+"Sigma Kappa Sorority",int_41
+int_41,int_42
+int_42,int_43
+int_43,int_44
+"Beta Theta Pi Fraternity",int_43
+"Beta Theta Pi Fraternity",int_44
+"Alpha Tau Omega Fraternity",int_44
+"Kappa Sigma Fraternity",int_45
+"Phi Gamma Delta Fraternity",int_45
+"Sigma Phi Epsilon Fraternity",int_45
+"Aspen Hall/CASA",int_45
+"Sigma Alpha Epsilon Fraternity",int_46
+"W. Lloyd Wright Wellness Center",int_46
+int_33,int_46
+int_44,int_45
+int_45,int_46
+"Lot B",int_46
+int_46,int_48
+"Elm Residence Hall & Mines Market",int_48
+int_34,int_48
+"Weaver Towers",int_48
+"Spruce Hall",int_48
+int_48,int_49
+"The Writing Center",int_47
+"University Honors & Scholars Houses",int_47
+WISEM,int_47
+int_35,int_47
+int_47,int_49
+USGS,int_47
+EMRF,int_30
+EMRF,int_50
+"CTLM Lot",int_36
+"CTLM Lot",int_51
+int_30,int_36
+int_30,int_50
+"East Classroom Building",int_36
+"East Classroom Building",int_37
+"East Classroom Building","East Parking Garage"
+"East Parking Garage",int_51
+int_49,int_50
+int_50,int_51
+int_51,int_52
+int_52,int_53
+int_38,int_52
+int_39,int_53
+"1750 Jackson Street",int_39
+"1750 Jackson Street",int_53
+int_49,int_54
+"Starzer Welcome Center",int_54
+"Visitor Parking",int_54
+int_54,int_56
+"ROTC/Military Science",int_56
+int_46,int_55
+int_55,int_56
+"Residence Hall VII",int_55
+"Residence Hall VII",int_56
+"1922 Jones Rd.","Lot A"
+"1920 Jones Rd.","Lot A"
+"Lot A",int_55
+"Music Program",int_55
+"Central Storage & Receiving",int_55
+"Lot F",int_55
+"Lot AA","Lot F"
+"Lot A","Lot F"
+"Lot A","Lot AA"
+"Lot F","Music Program"
+"Central Storage & Receiving","Lot F"

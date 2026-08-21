@@ -1,0 +1,11 @@
+x_position,y_position,node_type,name
+700,536,b,"East Classroom Building"
+700,581,b,"East Parking Garage"
+659,512,i,int_1
+612,480,b,CTLM
+654,442,b,"Marquez Hall"
+581,403,i,int_2
+633,465,i,int_3
+470,403,i,int_4
+369,403,i,int_5
+383,371,b,"Berthoud Hall"
