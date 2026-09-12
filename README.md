@@ -11,12 +11,7 @@ An unweighted graph is used to solve the Wikipedia Game, finding the shortest pa
 <img src="assets/wikipedia_game_screenshot.png" alt="Wikipedia CLI Output" width="600">
 
 ### Campus Navigator
-<table>
-  <tr>
-    <td><img src="assets/campus_animation_screenshot_1.png" alt="In progress path animation" width="500"></td>
-    <td><img src="assets/campus_animation_screenshot_2.png" alt="Complete path animation" width="500"></td>
-  </tr>
-</table>
+<img src="assets/campus_navigator_gif.gif" alt="Campus Navigator Pathfinding Animation Demo" width="550">
 
 
 ## Key Features
